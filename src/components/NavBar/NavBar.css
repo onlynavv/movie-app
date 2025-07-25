@@ -1,0 +1,28 @@
+.navbar {
+  width: 100%;
+  background: #8884d8;
+  padding: 14px 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-links {
+  display: flex;
+  gap: 28px;
+}
+
+.navbar-links a {
+  color: #fff;
+  text-decoration: none;
+  padding: 6px 16px;
+  border-radius: 5px;
+}
+
+.navbar-logo {
+  height: 38px;
+  width: auto;
+  display: block;
+  object-fit: contain;
+}
