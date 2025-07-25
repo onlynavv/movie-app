@@ -38,5 +38,6 @@ used line and bar graph, to show the live counts and comparision of current and 
 
 ## How to Run
 ```bash
+cd folder_name (OPTIONAL)
 npm install
 npm run dev
